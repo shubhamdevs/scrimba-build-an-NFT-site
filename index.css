@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: #5f29a3;
-    padding: 45px 0;
+    padding: 45px 0;+
 }
 
 h1 {
@@ -21,3 +21,16 @@ h3 {
     color: #d0aaff; 
     margin: 0;
 }
+
+section {
+    padding: 45px 0px;
+}
+
+.main-img {
+    width: 100%;
+}
+
+
+
+
+
